@@ -1,3 +1,14 @@
 /opt/homebrew/etc/kafka/server.properties
 
 kcat -b localhost:9092 -C -t test-topic -o end      -----consummer terminal access
+
+
+
+Git Commands :
+1. git fetch - fetch changes 
+2. git pull - Get new changes 
+3. git commit -m "any message" -- commit changes to repo
+4. git push -- push changes to repo
+5. git checkout -b "branch name" ---to create a new Branch
+6. git checkout "branch name"  --- to change current branch  
+
