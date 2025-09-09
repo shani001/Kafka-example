@@ -1,0 +1,3 @@
+/opt/homebrew/etc/kafka/server.properties
+
+kcat -b localhost:9092 -C -t test-topic -o end      -----consummer terminal access
