@@ -1,0 +1,10 @@
+Id = 1 Name = Goku
+Id = 2 Name = Vegeta
+Id = 3 Name = Piccolo
+Id = 4 Name = Bulma
+Id = 5 Name = Freezer
+Id = 6 Name = Zarbon
+Id = 7 Name = Dodoria
+Id = 8 Name = Ginyu
+Id = 9 Name = Celula
+Id = 10 Name = Gohan
